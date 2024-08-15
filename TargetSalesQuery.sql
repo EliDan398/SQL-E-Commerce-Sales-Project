@@ -160,8 +160,8 @@ WHERE row_num > 1
 
 --Fixing inconsistent entries
 UPDATE [TargetSalesDataset].[dbo].[geolocation_cleaned]
-SET geolocation_city = REPLACE(geolocation_city, 's„o paulo', 'sao paulo')
-WHERE geolocation_city LIKE '%s„o paulo%';
+SET geolocation_city = REPLACE(geolocation_city, 's√£o paulo', 'sao paulo')
+WHERE geolocation_city LIKE '%s√£o paulo%';
 
 SELECT * FROM [TargetSalesDataset].[dbo].[geolocation_cleaned]
 
