@@ -10,4 +10,7 @@ The SQL E-Commerce Sales Project is designed as an example to perfrom exploritor
 
 Requirements to run: 
 Dataset: [E-Commerce (Target) Sales Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=sellers)
-Software: 
+Software: Sql Server Managemnt Studio (or another suitable SQL server)
+
+![Database Structure]("C:\Users\elida\Downloads\TSalesImg.png")
+
