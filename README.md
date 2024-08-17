@@ -12,5 +12,5 @@ Requirements to run:
 Dataset: [E-Commerce (Target) Sales Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=sellers)
 Software: Sql Server Managemnt Studio (or another suitable SQL server)
 
-![Database Structure](DatabaseStructure.png)
+![Database Structure](assets/DatabaseStructure.png)
 
